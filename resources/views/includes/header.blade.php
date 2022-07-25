@@ -29,7 +29,6 @@
                             <input type="text" class="form-control" placeholder="Search here...">
                         </div>
                     </li>
-                 
                     <li class="nav-item dropdown notification_dropdown">
                         <a class="nav-link  ai-icon" href="javascript:void(0)" role="button" data-toggle="dropdown">
                             <svg width="28" height="28" viewBox="0 0 28 28" fill="none"
