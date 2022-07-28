@@ -21,6 +21,8 @@
 
 <body>
     <div id="main-wrapper" class="show">
+
+        
         @include('includes.header')
         @include('includes.aside')
         @yield('content')
